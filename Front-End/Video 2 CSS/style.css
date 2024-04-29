@@ -1,0 +1,92 @@
+*{
+    padding: 0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+    background-color: aquamarine;
+} 
+
+p{
+    color:red;
+    font-size: 25px;
+}
+
+#paraid{
+    color:blue;
+    font-size: 25px;
+}
+.paraclass{
+    color:navy;
+    font-size: 25px;
+}
+#main{
+    width:100%;
+    height: 50%;
+    background-color: black;
+}
+#main2{
+    width: 20%;
+    height: 50%;
+    margin: 10% 20% 0% 20%;
+    background-image: url('https://images.unsplash.com/photo-1699704577583-35e4538aa914?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    /* background-image: url('https://images.unsplash.com/photo-1714165860646-b8de17af3bc8?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); */
+    background-size: cover;
+    background-position: center;
+}
+
+#car1{
+    /* position: absolute; */
+    width:50px;
+    height:75px;
+    background-color: red;
+}
+#car2{
+    /* position: absolute; */
+    /* top: 20%; */
+    /* left: 30%; */
+    width:70px;
+    height:65px;
+    background-color: blue;
+}
+#car3{
+    width:80px;
+    height:75px;
+    background-color: navy;
+}
+#box{
+    /* position: relative; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+    padding: 0px 10px;
+    width:100%;
+    height:10%;
+    background-color: violet;
+}
+#chota{
+    position: absolute;
+    left:45%;
+    width: 100px;
+    height:100px;
+    background-color: rgb(73, 73, 209);
+}
+#a{
+    width:100px;
+    height:50px;
+    background-color: red;
+}
+#b{
+    width:100px;
+    height:50px;
+    background-color: rgb(61, 243, 85);
+}
+#c{
+    width:100px;
+    height:50px;
+    background-color: rgb(252, 251, 251);
+}

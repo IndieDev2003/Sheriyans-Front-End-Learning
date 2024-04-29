@@ -1,0 +1,8 @@
+Playlist Link: https://www.youtube.com/playlist?list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz
+
+HTMl Video: Done ✔
+            https://www.youtube.com/watch?v=4dprtEzunIk&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=1&pp=iAQB
+CSS Video: Done ✔
+            https://www.youtube.com/watch?v=K1naz9wBwKU&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=2&t=301s&pp=iAQB
+JavaScipt Video:
+            https://www.youtube.com/watch?v=htznIeWKgg8&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=3&pp=iAQB
